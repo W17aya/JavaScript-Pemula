@@ -1,7 +1,3 @@
-console.log("Menyalakan mesin kopi");
-console.log("Menggiling biji kopi");
-console.log("Memanaskan air");
-console.log("Mencampurkan air dan kopi");
-console.log("Menuangkan kopi ke dalam gelas");
-console.log("Menuangkan susu ke dalam gelas");
-console.log("Kopi Anda sudah siap!");
+for(let i = 1; i <9; i += 2){
+	console.log(i);
+}
